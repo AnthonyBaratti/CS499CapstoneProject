@@ -4,7 +4,8 @@
 -[Enhancement One](#enhancement-one)<br>
 -[Enhancement Two](#enhancement-two)<br>
 -[Enhancement Three](#enhancement-three)<br>
--[Course Outcome Completion](#course-outcome-completion)<br><br>
+-[Course Outcome Completion](#course-outcome-completion)<br><br><br>
+[Return to e-portfolio](https://github.com/AnthonyBaratti/AnthonyBaratti.github.io/tree/main)
 
 ### Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University. <br>
